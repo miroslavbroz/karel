@@ -7,7 +7,7 @@ KAREL looks like this:
 
 ![Screenshot](karel.png)
 
-After it performs a work ("prace"), it complaints it was a lot of work ("fuska"):
+After it performs a work ("prace"), it complains it was a lot of work ("fuska"):
 
 ![Screenshot](karel2.png)
 
